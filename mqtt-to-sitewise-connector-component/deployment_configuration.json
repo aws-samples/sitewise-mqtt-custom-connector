@@ -1,0 +1,1 @@
+{ "components": { "community.greengrass.MqttToSitewise": { "componentVersion": "1.0.9" } } }

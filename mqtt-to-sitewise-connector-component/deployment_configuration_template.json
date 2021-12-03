@@ -1,0 +1,7 @@
+{
+  "components": {
+    "$component_name": {
+      "componentVersion": "$component_version"
+    }
+  }
+}
