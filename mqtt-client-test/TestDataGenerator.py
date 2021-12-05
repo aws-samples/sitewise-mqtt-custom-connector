@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # /*
 # __author__ = "Srikanth Kodali - skkodali@"
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: MIT-0
 # */
 
 import json

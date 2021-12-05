@@ -1,5 +1,7 @@
 # /*
 # __author__ = "Srikanth Kodali - skkodali@"
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: MIT-0
 # */
 
 ### Download latest stream_manager sdk from : https://github.com/aws-greengrass/aws-greengrass-stream-manager-sdk-python/

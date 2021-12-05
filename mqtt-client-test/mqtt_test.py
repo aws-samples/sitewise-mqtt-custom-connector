@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: MIT-0
+
 from awscrt import io
 from awsiot import mqtt_connection_builder
 from awsiot.greengrass_discovery import DiscoveryClient, DiscoverResponse

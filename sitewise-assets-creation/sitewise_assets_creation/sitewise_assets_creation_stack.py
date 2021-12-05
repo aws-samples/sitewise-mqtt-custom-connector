@@ -1,5 +1,7 @@
 # /*
-__author__ = "Srikanth Kodali - skkodali@"
+# __author__ = "Srikanth Kodali - skkodali@"
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: MIT-0
 # */
 
 from aws_cdk import (
